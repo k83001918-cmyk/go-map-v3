@@ -1,0 +1,1 @@
+{"name": "GO 配車取得実績マップ Ver.3", "short_name": "GOマップ", "description": "大阪エリアのGO配車取得実績をオフラインで表示", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#f2f5f6", "theme_color": "#164b75", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
